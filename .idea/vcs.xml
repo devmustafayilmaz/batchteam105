@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/JavaAlistirmalari" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/JavaAlistirmalari2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ders03_dataCastingWrapperClass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ders17_Scope" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ders18_Arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ders19_Arraylist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ders20_arrayList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ders22_statickeyword" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/desr21_Constructor" vcs="Git" />
+  </component>
+</project>
